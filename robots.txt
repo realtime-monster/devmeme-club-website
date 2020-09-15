@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /*_escaped_fragment_*
+Disallow:
+Sitemap: http://devmeme.club/sitemap.xml
+Host: devmeme.club
